@@ -229,18 +229,22 @@
       <SDLCheck>true</SDLCheck>
       <LinkCompiled>true</LinkCompiled>
     </ClCompile>
+    <ClCompile Include="BinaryTree\SearchBST.cpp" />
     <ClCompile Include="BinaryTree\TreeNode.cpp" />
     <ClCompile Include="ContainerMostWater\ContainerMostWater.cpp" />
     <ClCompile Include="ContainsDuplicate.cpp" />
     <ClCompile Include="CPlusPlusInterviewPrep.cpp" />
+    <ClCompile Include="KeysAndRooms\KeysAndRooms.cpp" />
     <ClCompile Include="MoveZeroes\MoveZeroes.cpp" />
     <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryTree\InvertBinaryTree.h" />
+    <ClInclude Include="BinaryTree\SearchBST.h" />
     <ClInclude Include="BinaryTree\TreeNode.h" />
     <ClInclude Include="ContainerMostWater\ContainerMostWater.h" />
     <ClInclude Include="ContainsDuplicate.h" />
+    <ClInclude Include="KeysAndRooms\KeysAndRooms.h" />
     <ClInclude Include="MoveZeroes\MoveZeroes.h" />
     <ClInclude Include="TwoSum.h" />
   </ItemGroup>
